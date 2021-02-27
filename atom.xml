@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://foolgry.github.io</id>
     <title>foolgry-blog</title>
-    <updated>2021-02-27T05:49:24.096Z</updated>
+    <updated>2021-02-27T05:52:52.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://foolgry.github.io"/>
     <link rel="self" href="https://foolgry.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, foolgry-blog</rights>
     <entry>
         <title type="html"><![CDATA[摘录一些微博上看到的“原则”]]></title>
-        <id>https://foolgry.github.io/post/jing-li/</id>
-        <link href="https://foolgry.github.io/post/jing-li/">
+        <id>https://foolgry.github.io/post/yuan-ze/</id>
+        <link href="https://foolgry.github.io/post/yuan-ze/">
         </link>
         <updated>2021-02-27T03:17:11.000Z</updated>
         <content type="html"><![CDATA[<p>之前从微博上摘抄的，当时没有记录从谁那看到的，再去搜索，已经找不到原文了。</p>
