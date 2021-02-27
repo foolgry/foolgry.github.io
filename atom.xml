@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://foolgry.github.io</id>
     <title>foolgry-blog</title>
-    <updated>2021-02-26T03:31:48.502Z</updated>
+    <updated>2021-02-27T05:49:24.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://foolgry.github.io"/>
     <link rel="self" href="https://foolgry.github.io/atom.xml"/>
@@ -10,6 +10,60 @@
     <logo>https://foolgry.github.io/images/avatar.png</logo>
     <icon>https://foolgry.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, foolgry-blog</rights>
+    <entry>
+        <title type="html"><![CDATA[摘录一些微博上看到的“原则”]]></title>
+        <id>https://foolgry.github.io/post/jing-li/</id>
+        <link href="https://foolgry.github.io/post/jing-li/">
+        </link>
+        <updated>2021-02-27T03:17:11.000Z</updated>
+        <content type="html"><![CDATA[<p>之前从微博上摘抄的，当时没有记录从谁那看到的，再去搜索，已经找不到原文了。</p>
+<ol>
+<li>
+<p>决策的第一要务是给自己创造出足够多的好选项。大多数决策失败来源于在几个都不够好的选择中反复纠结。</p>
+</li>
+<li>
+<p>对于日常小的决策，决策速度大于决策质量，不要拖；<br>
+对于重大而难以逆转的大决策，要收集足够多的信息尽量保证做对。</p>
+</li>
+<li>
+<p>在没到达信息收集量的门槛之前，不轻易做判断和决策。多对自己和别人说 我不知道。</p>
+</li>
+<li>
+<p>不是生活中的每个问题都要解决，和问题共处是常态。把精力放在重要的事情上。</p>
+</li>
+<li>
+<p>不要将决策结果等同于决策质量。学着建立自己的决策系统。</p>
+</li>
+<li>
+<p>寻找 “非对称回报”的机会，即那种“失败了损失很低，但一旦成功回报巨大”的机会</p>
+</li>
+<li>
+<p>人境遇的改变往往是非线性的。积累和等待的过程很难熬，这是很多人无法改变的原因。</p>
+</li>
+<li>
+<p>耐心是非常值得拥有的品质。</p>
+</li>
+<li>
+<p>一个人的境遇绝大部分都受运气支配，但运气是可以被影响的。</p>
+</li>
+<li>
+<p>很多时候最好的竞争优势就是别人觉得麻烦而你不觉得。</p>
+</li>
+<li>
+<p>凡事都反过来想一想，想要投资成功，先弄清楚什么让人投资失败；想要生活幸福，先看什么事会导致人生不幸福。</p>
+</li>
+<li>
+<p>在混沌、开放、随机的系统内，努力减少错误要比追求正确有效得多。</p>
+</li>
+<li>
+<p>学会时刻跳到上一层将问题消除，而不是花费很多精力解决问题。学着让问题不在是问题。</p>
+</li>
+<li>
+<p>相信大数定律。一件事哪怕只有10%的把握，连试20次之后成功率也有九成。</p>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何做好一次技术分享]]></title>
         <id>https://foolgry.github.io/post/ru-he-zuo-hao-yi-ci-ji-zhu-fen-xiang/</id>
@@ -26,7 +80,9 @@ table of contents 不仅仅要出现在第一页，在每个章节前面也加�
 </ol>
 <p>还有个回答，推荐了一篇文章<br>
 <a href="https://jeremyxu2010.github.io/2020/05/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E4%B9%8B%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/">技术分享之工具推荐</a><br>
-文章里面推荐了一个工具<a href="https://marp.app/">Marp</a>，对应 VS Code 也有一个插件 Marp for VS Code<br>
+文章里面推荐了一个工具<a href="https://marp.app/">Marp</a><br>
+这个工具的作用就是利用类似 <code>markdown</code> 的语法来写 <code>PPT</code><br>
+对应 VS Code 也有一个插件 Marp for VS Code<br>
 对应的<a href="https://marpit.marp.app/">使用文档</a><br>
 还有一个<a href="https://github.com/jeremyxu2010/k8s-share/blob/master/kubernetes%E7%AE%80%E4%BB%8B.md">例子</a></p>
 ]]></content>
